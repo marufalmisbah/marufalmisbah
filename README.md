@@ -1,20 +1,20 @@
-  <h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+  <h1 align="center">Hi 👋, I'm Maruf <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 <ul>
 <li>
-<p>🔭 I’m currently working on my <strong>Python Course</strong></p>
+<p>🔭 I’m currently working on my <strong>Full Stack Web Development</strong></p>
 </li>
 <li>
-<p>🌱 I’m currently learning <strong>Python, HTML5 and CSS3</strong></p>
+<p>🌱 I’m currently learning <strong>Javascript, Tailwind, Bootstrap, HTML5 and CSS3</strong></p>
 </li>
 <li>
 <p>👯 I’m looking to collaborate on <strong>front-end and back-end projects</strong></p>
 </li>
 <li>
-<p>📫 How to reach me: <strong><a href="mailto:brantlauro@gmail.com">brantlauro@gmail.com</a></strong></p>
+<p>📫 How to reach me: <strong><a href="mailto:almisbahmaruf@gmail.com">almisbahmaruf.com</a></strong></p>
 </li>
 <li>
-<p>⚡ What I like to do: <strong>I like so much reading, basketball and skateboarding…and coding of course</strong></p>
+<p>⚡ What I like to do: <strong>I like so much reading, Cricket and skateboarding…and coding of course</strong></p>
 </li>
 </ul>
 <h3 align="center">Connect with me:</h3>
