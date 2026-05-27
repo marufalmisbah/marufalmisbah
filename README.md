@@ -50,5 +50,4 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&amp;theme=react&amp;layout=compact">
 </p>
 <hr>
-<p><a href="https://github.com/BrantLauro">BrantLauro</a></p>
-<p>Last Edited on: 05/08/2021</p> 
+<p><a href="https://github.com/BrantLauro">Maruf Al Misbah</a></p> 
